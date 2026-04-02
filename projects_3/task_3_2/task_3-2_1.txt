@@ -1,0 +1,4 @@
+total 0
+drwxr-xr-x  3 ayyuceisik  staff   96  1 Nis 20:48 .
+drwxr-xr-x  4 ayyuceisik  staff  128  1 Nis 20:48 ..
+-rw-r--r--  1 ayyuceisik  staff    0  1 Nis 20:48 sequencing_backup.log

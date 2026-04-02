@@ -1,0 +1,28 @@
+ayyuceisik@Ayyuce-MacBook-Air ~ % ls -l
+total 0
+drwxr-x---    3 ayyuceisik  staff    96  5 Eki 12:13 Adlm
+drwxr-xr-x    8 ayyuceisik  staff   256  2 Eki 21:59 Applications
+drwx------@   7 ayyuceisik  staff   224  1 Nis 19:27 Desktop
+drwx------@   5 ayyuceisik  staff   160  4 Mar 00:56 Documents
+drwx------+ 108 ayyuceisik  staff  3456 26 Şub 14:26 Downloads
+drwxr-xr-x    4 ayyuceisik  staff   128 26 Şub 14:26 Informatika Python
+drwx------@  97 ayyuceisik  staff  3104  8 Eki 19:14 Library
+drwx------    4 ayyuceisik  staff   128  2 Eyl  2023 Movies
+drwx------+   4 ayyuceisik  staff   128  4 Eyl  2023 Music
+drwx------+   4 ayyuceisik  staff   128 31 Ağu  2023 Pictures
+drwxr-xr-x+   4 ayyuceisik  staff   128 31 Ağu  2023 Public
+drwxr-xr-x    3 ayyuceisik  staff    96  8 Eki 19:15 VirtualBox VMs
+ayyuceisik@Ayyuce-MacBook-Air ~ % ls -a
+.			.vscode			Informatika Python
+..			.zsh_history		Library
+.CFUserTextEncoding	.zsh_sessions		Movies
+.DS_Store		Adlm			Music
+.Trash			Applications		Pictures
+.cache			Desktop			Public
+.config			Documents		VirtualBox VMs
+.lesshst		Downloads
+ayyuceisik@Ayyuce-MacBook-Air ~ % ls -h
+Adlm			Downloads		Music
+Applications		Informatika Python	Pictures
+Desktop			Library			Public
+Documents		Movies			VirtualBox VMs

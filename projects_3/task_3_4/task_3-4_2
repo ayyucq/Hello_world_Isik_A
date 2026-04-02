@@ -1,0 +1,10 @@
+ayyuceisik@Ayyuce-MacBook-Air linux-practice % du -h --max-depth=2 ./          
+du: unrecognized option `--max-depth=2'
+usage: du [-Aclnx] [-H | -L | -P] [-g | -h | -k | -m] [-a | -s | -d depth] [-B blocksize] [-I mask] [-t threshold] [file ...]
+ayyuceisik@Ayyuce-MacBook-Air linux-practice % du -h -d 2 ./
+  0B	.//images
+  0B	.//documents/past
+  0B	.//documents/future
+  0B	.//documents
+  0B	.//backups
+  0B	./

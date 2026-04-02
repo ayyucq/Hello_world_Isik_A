@@ -1,0 +1,11 @@
+USER               PID  %CPU %MEM      VSZ    RSS   TT  STAT STARTED      TIME COMMAND
+_locationd         350   5,4  0,4 410472912  30928   ??  Ss    7:11PM   0:29.22 /usr/libexec/locationd
+root               358   0,9  0,3 410382176  25776   ??  Ss    7:11PM   0:15.01 /usr/libexec/PerfPowerServices
+ayyuceisik         833   0,6  0,8 444854752  64160   ??  S     7:11PM   1:06.18 /Users/ayyuceisik/Library/Application Support/Steam/Steam.AppBundle/Steam/Contents/Frameworks/Steam Helper.app/Contents/MacOS/Steam Helper -nocrashdialog -lang=tr_TR -cachedir=/Users/ayyuceisik/Library/Application Support/Steam/config/htmlcache -steampid=755 -buildid=1769025840 -steamid=0 -logdir=/Users/ayyuceisik/Library/Application Support/Steam/logs -uimode=7 -startcount=0 -steamuniverse=Public -realm=Global -clientui=/Users/ayyuceisik/Library/Application Support/Steam/Steam.AppBundle/Steam/Contents/MacOS/clientui -steampath=/Users/ayyuceisik/Library/Application Support/Steam/Steam.AppBundle/Steam/Contents/MacOS/steam_osx -launcher=0 -delaypageload --valve-initial-threadpool-size=4 --valve-enable-site-isolation --enable-smooth-scrolling --log-file=/Users/ayyuceisik/Library/Application Support/Steam/logs/cef_log.txt --disable-quick-menu --disable-component-update --gaia-url=http://disabled.invalid --enable-features=PlatformHEVCDecoderSupport --disable-features=WinRetrieveSuggestionsOnlyOnDemand,SpareRendererForSitePerProcess,DcheckIsFatal,BlockPromptsIfIgnoredOften,ValveFFmpegAllowLowDelayHEVC
+root               343   0,5  0,2 410387344  17216   ??  Ss    7:11PM   0:11.60 /usr/libexec/opendirectoryd
+root               607   0,3  0,2 410392848  17472   ??  Ss    7:11PM   0:02.77 /usr/libexec/searchpartyd
+root               303   0,3  0,4 410471856  32240   ??  Ss    7:11PM   0:11.07 /usr/libexec/logd
+ayyuceisik         589   0,3  1,6 412172656 134464   ??  S     7:11PM   0:52.51 /System/Library/CoreServices/Finder.app/Contents/MacOS/Finder
+root               365   0,2  0,3 410428496  26032   ??  Ss    7:11PM   0:15.75 /usr/sbin/bluetoothd
+ayyuceisik         623   0,2  0,5 410385936  38992   ??  S     7:11PM   0:18.30 /System/Library/PrivateFrameworks/FileProvider.framework/Support/fileproviderd
+root               604   0,1  0,2 410374080  15424   ??  Ss    7:11PM   0:03.94 /usr/sbin/filecoordinationd
